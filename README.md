@@ -1,4 +1,4 @@
-   <h1>Is RepackGames.site Safe?</h1>
+   <h1>Is Repack-Games.site Safe?</h1>
     <p>
       <strong>RepackGames.site</strong> is a popular source for free repacked PC games, but its legitimacy and safety have been questioned by many in the gaming community. This project was created to analyze and document the platform's safety, providing users with reliable information to help them decide whether they should use the site or avoid it.
     </p>
